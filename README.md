@@ -1,9 +1,5 @@
 Pen2Board
 =========
 
-<<<<<<< HEAD
-Content Management Board
-Extensible
-=======
-Content Management Board
->>>>>>> 926dc02a8554800666deba2a7b9cc9de701adfbd
+Pen2Board or "BlueLime" Project is an open source CMS that allows you to show your content in an elegant way in several forms such as tables
+
